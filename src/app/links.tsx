@@ -29,9 +29,9 @@ export default function LinksPage() {
         name: "Bastien Cantet",
         bio: "Hey there! I'm a developer who loves building cool stuff. Here are my links 😊",
         photo: "https://avatars.githubusercontent.com/u/43909152?v=4", // Replace with your actual photo
-        email: "your.email@example.com", // Update with your real email
-        linkedin: "https://linkedin.com/in/your-profile", // Update with your real LinkedIn
-        github: "https://github.com/your-username", // Update with your real GitHub
+        email: "bastiencantet@outlook.fr", // Update with your real email
+        linkedin: "https://www.linkedin.com/in/bastien-cantet-696a07206/", // Update with your real LinkedIn
+        github: "https://github.com/bastiencantet", // Update with your real GitHub
         website: "https://bastiencantet.com",
     }
 
